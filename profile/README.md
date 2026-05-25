@@ -160,6 +160,28 @@ Choose the right integration kit for your checkout flow, backend stack, or mobil
   </tr>
 </table>
 
+---
+
+## Airpay MCP Server
+
+Bring payment operations into AI workflows using the Model Context Protocol, the open standard for AI-to-API communication.
+
+<table>
+  <tr>
+    <td>
+      <h3>AI agents, meet Airpay APIs</h3>
+      <p>The official <a href="https://github.com/airpay/airpay-mcp-server"><strong>airpay-mcp-server</strong></a> exposes Airpay payment APIs as structured tools that MCP-compatible AI clients can call securely.</p>
+      <p>Query transactions, trigger payouts, manage merchants, inspect webhooks, and reconcile settlements through natural language workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MCP-Ready-00A9B5?style=flat-square" alt="MCP Ready" />
+        <img src="https://img.shields.io/badge/Use%20cases-Transactions%20%C2%B7%20Payouts%20%C2%B7%20Settlements-0066A7?style=flat-square" alt="Transactions, payouts, settlements" />
+      </p>
+      <p><a href="https://github.com/airpay/airpay-mcp-server"><strong>View on GitHub</strong></a></p>
+    </td>
+  </tr>
+</table>
+---
+
 ## Developer resources
 
 | Resource | Link |
