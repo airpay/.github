@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://airpay.co.in/">
-    <img src="https://img.shields.io/badge/airpay-All%20Payments%2C%20One%20Platform-0066A7?style=for-the-badge" alt="airpay - All Payments, One Platform" />
-  </a>
-</p>
-
 <h1 align="center">All your payments, one seamless platform.</h1>
 <img src="../banner.jpg" alt="airpay — Built by engineers, for India" width="100%"/>
 <p align="center">
