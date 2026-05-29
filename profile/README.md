@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">All your payments, one seamless platform.</h1>
-<img src="../banner.png" alt="airpay — Built by engineers, for India" width="100%"/>
+<img src="../banner.jpg" alt="airpay — Built by engineers, for India" width="100%"/>
 <p align="center">
   In-store, online and cross-border payments for businesses that move fast and think global.
 </p>
