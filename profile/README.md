@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://grow.airpay.co.in/signup"><strong>Get Started</strong></a>
   ·
-  <a href="https://sanctum.airpay.co.in/"><strong>Read the Docs</strong></a>
+  <a href="https://docs.airpay.co.in/"><strong>Read the Docs</strong></a>
   ·
   <a href="https://airpay.co.in/developerhub"><strong>Developer Hub</strong></a>
 </p>
@@ -49,8 +49,8 @@ airpay helps businesses accept, make, and manage payments across online, offline
 | Step | Action | Start here |
 | --- | --- | --- |
 | **1** | **Get API keys** - Sign up, generate API credentials, and access developer documentation. | [Sign up](https://grow.airpay.co.in/signup) |
-| **2** | **Plug and configure** - Integrate using SDKs, REST APIs, or no-code payment setups. | [Integration kits](https://sanctum.airpay.co.in/#api-Integration_Kits) |
-| **3** | **Go live** - Test in sandbox mode, then launch live payments with monitoring. | [Developer docs](https://sanctum.airpay.co.in/#api-Getting_Started_Guide) |
+| **2** | **Plug and configure** - Integrate using SDKs, REST APIs, or no-code payment setups. | [Integration kits](https://docs.airpay.co.in/v4/integration-kits/server-side-sdk/) |
+| **3** | **Go live** - Test in sandbox mode, then launch live payments with monitoring. | [Developer docs](https://docs.airpay.co.in/v4/getting-started-guide/overview/) |
 
 ---
 
@@ -90,7 +90,7 @@ airpay helps businesses accept, make, and manage payments across online, offline
 
 ## SDKs and libraries
 
-Choose the right integration kit for your checkout flow, backend stack, or mobile platform. Until official SDK repositories are published here, start with the [Sanctum Developer Portal](https://sanctum.airpay.co.in/) for API references, cURL examples, webhook events, and sandbox setup.
+Choose the right integration kit for your checkout flow, backend stack, or mobile platform. Until official SDK repositories are published here, start with the [Developer Portal](https://docs.airpay.co.in/) for API references, cURL examples, webhook events, and sandbox setup.
 
 ### Server-side SDK integration kits
 
@@ -181,9 +181,9 @@ Bring payment operations into AI workflows using the Model Context Protocol, the
 | Resource | Link |
 | --- | --- |
 | **Developer Hub** | [Integrations](https://airpay.co.in/developerhub) |
-| **API Documentation** | [Getting Started Guide](https://sanctum.airpay.co.in/#api-Getting_Started_Guide) |
-| **Integration Kits** | [SDK and integration kits](https://sanctum.airpay.co.in/#api-Integration_Kits) |
-| **Shopping Kits** | [Shopping and no-code kits](https://sanctum.airpay.co.in/#api-Shopping_Kits) |
+| **API Documentation** | [Getting Started Guide](https://docs.airpay.co.in/v4/getting-started-guide/overview/) |
+| **Integration Kits** | [SDK and integration kits](https://docs.airpay.co.in/v4/integration-kits/server-side-sdk/) |
+| **Shopping Kits** | [Shopping and no-code kits](https://docs.airpay.co.in/v4/shopping-kits/wordpress/) |
 | **Merchant Signup** | [Get Started](https://grow.airpay.co.in/signup) |
 
 ---
@@ -226,7 +226,7 @@ Bring payment operations into AI workflows using the Model Context Protocol, the
 <p align="center">
   <a href="https://grow.airpay.co.in/signup"><strong>Get Started</strong></a>
   ·
-  <a href="https://sanctum.airpay.co.in/"><strong>Docs</strong></a>
+  <a href="https://docs.airpay.co.in/"><strong>Docs</strong></a>
   ·
   <a href="https://airpay.co.in/enterprise-support"><strong>Acquiring Support</strong></a>
   ·
